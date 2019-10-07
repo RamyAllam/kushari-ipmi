@@ -1,0 +1,10 @@
+certifi==2018.1.18
+chardet==3.0.4
+Django==1.11.8
+djangorestframework==3.7.7
+idna==2.6
+pycrypto==2.6.1
+pyghmi==1.0.38
+pytz==2018.3
+requests==2.18.4
+urllib3==1.22
