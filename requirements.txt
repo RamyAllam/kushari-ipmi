@@ -7,4 +7,4 @@ pycrypto==2.6.1
 pyghmi==1.0.38
 pytz==2018.3
 requests==2.20.0
-urllib3==1.22
+urllib3==1.24.2
